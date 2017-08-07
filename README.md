@@ -1,0 +1,2 @@
+# djangohuiapisimple
+djangorestful结合hui框架精简版
